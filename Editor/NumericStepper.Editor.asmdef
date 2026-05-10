@@ -3,7 +3,8 @@
     "rootNamespace": "",
     "references": [
         "NumericStepper",
-        "Unity.TextMeshPro"
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
