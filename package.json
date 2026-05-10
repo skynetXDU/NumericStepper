@@ -3,12 +3,12 @@
   "displayName": "NumericStepper",
   "version": "0.1.0",
   "unity": "6000.0",
-  "unityRelease": "0f1",
-  "description": "Replace this with your own description of the package. \n\nFor best results, use this text to summarize: \n\u25aa What the package does \n\u25aa How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
+  "unityRelease": "",
+  "description": "数值stepper，通过左右两个按钮加减数值，并实时显示在中间的文本框里",
   "author": {
-    "name": "Dengfeng Li",
-    "url": "http://www.example.com",
-    "email": "example@email.com"
+    "name": "skynet",
+    "url": "https://github.com/skynetXDU",
+    "email": "skynetxdu@gmail.com"
   },
   "changelogUrl": "https://example.com/changelog.html",
   "documentationUrl": "https://example.com/",

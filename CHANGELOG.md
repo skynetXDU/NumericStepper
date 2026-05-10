@@ -1,11 +1,8 @@
-# Changelog
-All notable changes to this package will be documented in this file.
+# CHANGELOG
 
-The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
-and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+本文件记录 NumericStepper 每个版本的重要变化。
 
 ## [0.1.0] - 2026-05-10
 
-### This is the first release of *\<NumericStepper\>*.
-
-*Short description of this release*
+### 新增
+- 新增`NumericStepper`, 用于通过左右两个按钮控制数值，并实时显示在中间的文本框里
