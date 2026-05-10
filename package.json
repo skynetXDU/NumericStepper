@@ -10,7 +10,7 @@
     "url": "https://github.com/skynetXDU",
     "email": "skynetxdu@gmail.com"
   },
-  "changelogUrl": "https://example.com/changelog.html",
-  "documentationUrl": "https://example.com/",
-  "licensesUrl": "https://example.com/licensing.html"
+  "changelogUrl": "https://github.com/skynetXDU/NumericStepper/blob/master/CHANGELOG.md",
+  "documentationUrl": "https://github.com/skynetXDU/NumericStepper/blob/master/Documentation~/NumericStepper.md",
+  "licensesUrl": "https://github.com/skynetXDU/NumericStepper/blob/master/LICENSE"
 }

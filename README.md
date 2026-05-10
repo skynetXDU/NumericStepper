@@ -3,6 +3,9 @@
 unity官方没有数值调节器，比较接近的是Slider滑条。正好自己的项目需要，手写了一个NumericStepper小控件，用左右两个按钮加减数值，并实时显示在中间。
 
 ## 安装
+NumericStepper脚本里需要引用[InspectorLabel](https://github.com/skynetXDU/SKYNET2/blob/master/Documentation~/InspectorLabel.md)，所以需要先安装[这个包](https://github.com/skynetXDU/SKYNET2)，之后依次执行：
+1. unity编辑器中，点击Window - Package Management - Package Manager；
+2. 弹出的窗口中点左上角的“+”号，选Install package from git URL，弹出的输入框里输入<https://github.com/skynetXDU/NumericStepper.git>，点右侧Install等待安装即可；
 
 
 
